@@ -54,6 +54,12 @@ body {
 
 }
 
+.wrapper {
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
 /* Front Page */
 
 
